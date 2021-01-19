@@ -40,6 +40,9 @@
 							</select>
 						</div>
 					</div>
+					<br>
+				<b>KURIR PENGIRIMAN:</b>
+				<button class="btn btn-danger float-right"><i class="fa fa-card"></i>simpan dan chek out</button>
 				</div>
 			</div>
 		</div>

@@ -84,6 +84,7 @@ Route::get('produk/{produk}', [ClientController:: class, 'filter']);
 Route::get('test-ajax', [ClientController:: class, 'test-ajax']);
 
 Route::get('card', [HomeController:: class, 'showCard']);
+Route::get('card', [HomeController:: class, 'cardPembelian']);
 
 
 
